@@ -26,11 +26,14 @@ This project is a secure, AI-driven self-auditing platform designed to help orga
 # Postman Response After File Upload
 
 Below is a sample API response after successfully uploading and parsing a PDF document:
+
 <img width="671" alt="image" src="https://github.com/user-attachments/assets/70291fdc-1a80-4280-889d-a50a73cabd13" />
 
 Below is a sample API response after successfully retrive AI-generated guidance to evaluate documentation against ISO 27001 compliance controls:
+
 <img width="719" alt="image" src="https://github.com/user-attachments/assets/a0aff35e-b586-4ebd-b860-f7eaa2feff1a" />
 
 Below is a sample API response after successfully retrieving the AI-generated validation for the user-uploaded evidence:
+
 <img width="671" alt="image" src="https://github.com/user-attachments/assets/bd00d68f-7c74-4ed1-88de-9ec807263e11" />
 
